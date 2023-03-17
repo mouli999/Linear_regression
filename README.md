@@ -14,14 +14,20 @@ Chance of Admit (ranging from 0 to 1)
 
 Steps followed:
 1.Imported the dataset and did exploratory data analysis steps like checking the structure & characteristics of the dataset.
+
 2.Use Non-graphical and graphical analysis for getting inferences about variables.
+
 3.Checked correlation among independent variables and how they interacted with each other.
+
 4.Used Linear Regression from (Statsmodel library) and explained the parameters.
+
 5.Tested the assumptions of linear regression like 
   Multicollinearity check by VIF score
   Mean of residuals
   Linearity of variables (no pattern in residual plot)
   Test for Homoscedasticity
   Normality of residuals
+  
 Did model evaluation- MAE, RMSE, R2 score, Adjusted R2.
+
 Provided actionable Insights & Recommendations
