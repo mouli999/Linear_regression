@@ -22,11 +22,9 @@ Steps followed:
 4.Used Linear Regression from (Statsmodel library) and explained the parameters.
 
 5.Tested the assumptions of linear regression like 
-  Multicollinearity check by VIF score
-  Mean of residuals
-  Linearity of variables (no pattern in residual plot)
-  Test for Homoscedasticity
-  Normality of residuals
+  Multicollinearity check by VIF score,  Mean of residuals,
+  Linearity of variables, 
+  Test for Homoscedasticity,  Normality of residuals
   
 Did model evaluation- MAE, RMSE, R2 score, Adjusted R2.
 
